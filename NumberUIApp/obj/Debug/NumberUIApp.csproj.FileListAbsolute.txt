@@ -1,0 +1,17 @@
+H:\Workspace\Visual Studio 2013\Projects\NumberUIApp\NumberUIApp\bin\Debug\NumberUIApp.exe.config
+H:\Workspace\Visual Studio 2013\Projects\NumberUIApp\NumberUIApp\bin\Debug\NumberUIApp.exe
+H:\Workspace\Visual Studio 2013\Projects\NumberUIApp\NumberUIApp\bin\Debug\NumberUIApp.pdb
+H:\Workspace\Visual Studio 2013\Projects\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.Form1.resources
+H:\Workspace\Visual Studio 2013\Projects\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.Properties.Resources.resources
+H:\Workspace\Visual Studio 2013\Projects\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.csproj.GenerateResource.Cache
+H:\Workspace\Visual Studio 2013\Projects\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.exe
+H:\Workspace\Visual Studio 2013\Projects\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\NumberUIApp\NumberUIApp\bin\Debug\NumberUIApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\NumberUIApp\NumberUIApp\bin\Debug\NumberUIApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\NumberUIApp\NumberUIApp\bin\Debug\NumberUIApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.Form1.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\NumberUIApp\NumberUIApp\obj\Debug\NumberUIApp.csproj.GenerateResource.Cache
